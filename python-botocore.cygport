@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-botocore"
+VERSION=1.12.127
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Low-level Python interface to AWS"
+DESCRIPTION="A low-level interface to a growing number of Amazon Web Services.
+The botocore package is the foundation for the AWS CLI as well as boto3."
+
+ARCH=noarch
